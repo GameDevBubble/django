@@ -1,0 +1,17 @@
+html {
+    background-color: #151F4F;
+}
+
+.header {
+    display: flex;
+    height: 20px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.construction {
+    display: flex;
+    height: 20px;
+    justify-content: center;
+    margin-top: 50px;
+}
